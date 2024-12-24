@@ -1,4 +1,12 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Hello+there!+~%E2%99%AA;Here+you+can+explore+my+projects!;You're+welcome+to+contribute!+%E2%9C%8E_)](https://git.io/typing-svg)
+---
+- ⚙️ Everlearning Software Engineer with experience in Web Development, Machine Learning, and Cybersecurity.
+- 🎓 Master of Software Engineering and Germanic Philology.
+- ☕ Mentor and English Teacher.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chtholine&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chtholine&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
 
 <!--
 **chtholine/chtholine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
