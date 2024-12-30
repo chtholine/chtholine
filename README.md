@@ -11,7 +11,8 @@
 
 <details>
   <summary>📜 Certificates</summary>
-
+<p></p>
+  
   | [CS50 Web Programming](https://certificates.cs50.io/62eeb146-1f25-425c-be3e-c5326ab1057a.pdf?size=letter) | [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/78LBGT97YPSH) | [Palo Alto Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/CYNIFHCTQQNG) | [APISEC OWASP TOP 10](https://www.credly.com/badges/69351e05-4a57-4e0a-b228-0299863ce6a9/linked_in_profile) |
   |-----------------------|-----------------------|-----------------------|-----------------------|
   | <img src="certificates/CS50Web.jpg" width="200"> | <img src="certificates/Google%20Cybersecurity.jpg" width="200"> | <img src="certificates/Palo%20Alto%20Cybersecurity.jpg" width="200"> | <img src="certificates/APISEC_OWASP.jpg" width="200"> |
