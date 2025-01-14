@@ -6,8 +6,8 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=chtholine&theme=nord&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chtholine&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=ags%20script,jupyter%20notebook)
+![chtholine's Stats](https://github-readme-stats.vercel.app/api?username=chtholine&theme=nord&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![chtholine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chtholine&theme=nord&hide_border=true&count_private=true&layout=compact&hide=ags%20script,jupyter%20notebook)
 
 <details>
   <summary>📜 Certificates</summary>
