@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=300&duration=4000&pause=1000&color=81A1C1&width=435&lines=Hello+there!+~%E2%99%AA;Here+you+can+explore+my+projects!;You're+welcome+to+contribute!+%E2%9C%8E_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=300&duration=4000&pause=1000&size=21&color=81A1C1&vCenter=true&width=435&height=30&lines=Hello+there!+~%E2%99%AA;Here+you+can+explore+my+projects!;You're+welcome+to+contribute!+%E2%9C%8E_)](https://git.io/typing-svg)
 ---
 - ⚙️ Everlearning Software Engineer with experience in Web Development, Machine Learning, and Cybersecurity.
 - 🎓 Master of Software Engineering and Germanic Philology.
