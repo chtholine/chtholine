@@ -10,6 +10,15 @@
 ![chtholine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chtholine&theme=nord&hide_border=true&count_private=true&layout=compact&hide=ags%20script,jupyter%20notebook&card_width=440)
 
 <details>
+  <summary>💼 Diplomas</summary>
+  <p></p>
+  
+  | Bachelor of Germanic Philology | Master of Germanic Philology | Master of Software Engineering |
+  |:--:|:--:|:--:|
+  | | | |
+  
+</details>
+<details>
   <summary>📜 Certificates</summary>
 <p></p>
   
