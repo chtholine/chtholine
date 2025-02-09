@@ -15,7 +15,7 @@
   
   | Bachelor of Germanic Philology | Master of Germanic Philology | Master of Software Engineering |
   |:--:|:--:|:--:|
-  | | | |
+  | <img src="diplomas/Bachelor%20of%20Germanic%20Philology.jpg" width="150"> | <img src="diplomas/Master%20of%20Germanic%20Philology.jpg" width="200"> | <img src="diplomas/Master%20of%20Software%20Engineering.jpg" width="150"> |
   
 </details>
 <details>
