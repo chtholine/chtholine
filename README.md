@@ -9,6 +9,8 @@
 ![chtholine's Stats](https://github-readme-stats.vercel.app/api?username=chtholine&theme=nord&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=440)<br/>
 ![chtholine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chtholine&theme=nord&hide_border=true&count_private=true&layout=compact&hide=ags%20script,jupyter%20notebook&card_width=440)
 
+[![Oleh Medvedenko profile views](https://u8views.com/api/v1/github/profiles/112379403/views/day-week-month-total-count.svg)](https://u8views.com/github/chtholine)
+
 <details>
   <summary>💼 Diplomas</summary>
   <p></p>
